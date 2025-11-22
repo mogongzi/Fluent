@@ -1,0 +1,5 @@
+{
+  "name": "Fluent",
+  "description": "An AI-powered writing assistant that checks grammar, spelling, and style using the Gemini API.",
+  "requestFramePermissions": []
+}
